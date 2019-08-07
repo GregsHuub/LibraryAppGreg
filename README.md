@@ -3,7 +3,7 @@ Clone repository
 ```bash
 git clone https://github.com/GregsHuub/LibraryAppGreg.git
 ```
-#Open the folder LibraryAppGreg
+Open the folder LibraryAppGreg
 
 build app
 ```bash
